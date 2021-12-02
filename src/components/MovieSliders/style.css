@@ -1,0 +1,4 @@
+.movie:hover .arrow-left,
+.movie:hover .arrow-right {
+  opacity: 1;
+}
